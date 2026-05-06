@@ -1,6 +1,4 @@
-# Consultorio_Pacientes
-Consultorio Paciente🏥
-
+# Consultorio_Pacientes🏥
 Aplicación desarrollada en Java conectada a la misma base de datos del sistema principal “Consultorio”,
 orientada al acceso y gestión de información médica por parte de los pacientes.
 
